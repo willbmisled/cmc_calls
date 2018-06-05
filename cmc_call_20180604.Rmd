@@ -21,7 +21,8 @@ knitr::opts_chunk$set(echo = TRUE)
 * Last Monday of each month there will be a request for agenda items
 * Who is on the calls? Should we invite someone from the states to join us?
     - reconsider after the summer
-* Call notes will be available on 
+* Call notes will be available on https://github.com/willbmisled/cmc_calls; look for the pdf files
+* This weeks call notes are here: https://github.com/willbmisled/cmc_calls/blob/master/cmc_call_20180604.pdf
 
 ## Program Updates
 
