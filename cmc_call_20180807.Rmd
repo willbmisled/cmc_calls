@@ -1,0 +1,98 @@
+---
+title: "cmc_call_20180807"
+author: "Bryan Milstead"
+date: "`r format(Sys.time(), '%d %B %Y')`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Agenda for August 4, 2018
+
+### Participants:  Jasper, Betty, Hilary, Jeff
+
+## Housekeeping
+* Next call is Monday Sep. 3 (labor day).  Change to Weds. Sep. 5 @ 3pm
+    - Starting in September all calls will be scheduled for the 1st Weds. of the Month at 3pm
+* Call notes will be available on https://github.com/willbmisled/cmc_calls; look for the .Rmd files by date
+    - This months notes: https://github.com/willbmisled/cmc_calls/blob/master/cmc_call_20180807.Rmd
+* Sara Ernst is moving on to an exciting new opportunity
+
+## Action Items 20180604
+* Monitoring
+    - Hilary will send a message to the listserver about starting the 2018 sampling season. Done
+    - Hilary will check with Robin about collecting splits so we can replicate her readings for the summer. Done
+    - Shane will check with Jim about his work on calibrating the Beagle to cells / ml. Next month.
+* Betty will print some cyanoScope brochures for the NALMS meeting.
+* cyanoScope Tweeting:
+    - Betty will start tweeting about cyanoScope on @cyano_scope. Ongoing
+    - Jeff will look into automating the tweeting of current observations
+      - We are going to stick with manual tweeting for now.
+    - Shane will retweet selected tweets on @cyanos
+* cyanoBlitz
+    - Bryan will send a message to the listserver to gauge interest in the blitz and the training. Done
+    - Bryan will check with Robin to see if she can do the 1 day workshop.
+      - We canceled the workshop
+    - Bryan will check with Tim about invitational travel for Robin
+    - Bryan and Betty will work on the cyanoBlitz action plan. Not done.
+* Other Bidness
+    - Hilary will look at the Amiscience website and see what needs to be done.  Done
+    - Hilary will look into the Innovations Project RFP.  
+      - Not worth it
+    - Shane will see what needs to be done to make the kit links more visible on cyanos.org
+
+
+## Program Updates
+
+### Monitoring
+* Blooms are starting
+
+### Bloomwatch
+* CitSci database still has issues
+* New updated app coming out that fixes some of the problems
+* Kentucky state contact added
+* First observation from AR submitted through website
+
+### cyanoScope
+* Betty and Bryan Phycotech debriefing
+* Robin Matthews - no workshop in November
+* Not as many observations this month as expected
+* Need to send out another listserve announcement
+
+### cyanoBlitz
+* no workshop but move forward with promoting September blitz.
+
+### Other Bidness
+* Need to get a few blog posts up
+    - need time and themes
+* strategize on PR for the CMC
+    - blog posts, tweets, listserve messages
+* How do we keep our core group engaged?
+    - feeling that participation is lagging
+* Strategies for corralling data
+    - switch to google sheets for data entry
+* CMC report* brainstorm a collaborative group project for the bloom season
+    - Target date: before next season
+    - List of closures, data summaries
+* Develop a short report describing how to interpret fluorometry results 
+
+## Action Items 20180807
+* Monitoring
+    - Shane will check with Jim about his work on calibrating the Beagle to cells / ml (leftover from last call).
+    - Bryan will convert data entry spreadsheet to google sheet. Target date September 30.
+      - explore adding a form
+    - Hilary will take lead on developing an annual CMC report
+* bloomwatch
+    - Jasper will check on new app update
+* cyanoScope
+    - Send message to listserve. Bloom season is starting and with hot weather will continue get you observations in especially those with cyanoScope kits.  Also push the september cyanoBlitz; no workshop
+* Other Bidness
+    - Shane will see what needs to be done to make the kit links more visible on cyanos.org
+
+
+
+
+    
+
