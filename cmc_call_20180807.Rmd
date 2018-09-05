@@ -2,7 +2,7 @@
 title: "cmc_call_20180807"
 author: "Bryan Milstead"
 date: "`r format(Sys.time(), '%d %B %Y')`"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE, echo = FALSE}
@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE)
 * Next call is Monday Sep. 3 (labor day).  Change to Weds. Sep. 5 @ 3pm
     - Starting in September all calls will be scheduled for the 1st Weds. of the Month at 3pm
 * Call notes will be available on https://github.com/willbmisled/cmc_calls; look for the .Rmd files by date
-    - This months notes: https://github.com/willbmisled/cmc_calls/blob/master/cmc_call_20180807.Rmd
+    - This months notes: https://github.com/willbmisled/cmc_calls/blob/master/cmc_call_20180807.md
 * Sara Ernst is moving on to an exciting new opportunity
 
 ## Action Items 20180604

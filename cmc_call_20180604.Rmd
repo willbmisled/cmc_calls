@@ -2,7 +2,7 @@
 title: "cmc_call_20180604"
 author: "Bryan Milstead"
 date: "`r format(Sys.time(), '%d %B %Y')`"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE, echo = FALSE}
@@ -22,7 +22,7 @@ knitr::opts_chunk$set(echo = TRUE)
 * Who is on the calls? Should we invite someone from the states to join us?
     - reconsider after the summer
 * Call notes will be available on https://github.com/willbmisled/cmc_calls; look for the .Rmd files by date
-* This weeks call notes are here: https://github.com/willbmisled/cmc_calls/blob/master/cmc_call_20180604.Rmd
+* This weeks call notes are here: https://github.com/willbmisled/cmc_calls/blob/master/cmc_call_20180604.md
 
 ## Program Updates
 
