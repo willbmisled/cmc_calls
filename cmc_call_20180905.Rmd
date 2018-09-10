@@ -9,9 +9,9 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Agenda for August 4, 2018
+# Call Notes for September 5, 2018
 
-### Participants:  Jasper, Betty, Hilary, Jeff
+### Participants:  Bryan, Shane, Betty, Hilary, Jeff
 
 ## Housekeeping
 * Next call is Wednesday OCtober 3
@@ -19,44 +19,54 @@ knitr::opts_chunk$set(echo = TRUE)
     - This months notes: https://github.com/willbmisled/cmc_calls/blob/master/cmc_call_20180905.md
 
 ## Action Items 20180807
-* Monitoring
-    - Shane will check with Jim about his work on calibrating the Beagle to cells / ml (leftover from last call).
-    - Bryan will convert data entry spreadsheet to google sheet. Target date September 30.
+* Shane will check with Jim about his work on calibrating the Beagle to cells / ml (leftover from last call). Monitoring: in progress
+* Bryan will convert data entry spreadsheet to google sheet. Target date September 30: in progress
       - explore adding a form
-    - Hilary will take lead on developing an annual CMC report
+* Hilary will take lead on developing an annual CMC report: in progress
 * bloomwatch
-    - Jasper will check on new app update
+    - Jasper will check on new app update-not present.
 * cyanoScope
-    - Send message to listserve. Bloom season is starting and with hot weather will continue get you observations in especially those with cyanoScope kits.  Also push the september cyanoBlitz; no workshop
+    - Send message to listserve. Bloom season is starting and with hot weather will continue get you observations in especially those with cyanoScope kits.  Also push the september cyanoBlitz; no workshop; complete
 * Other Bidness
-    - Shane will see what needs to be done to make the kit links more visible on cyanos.org
-
+    - Shane will see what needs to be done to make the kit links more visible on cyanos.org: in progress.
 
 ## Program Updates
 
 ### Monitoring
-* 
+* Many blooms in progress in the NE
 
 ### Bloomwatch
-* 
+* Jasper not present
+* New update available
 
 ### cyanoScope
-* 
+* Identifications are coming in in a timely fashion
+* AED group has most of the recent observations
+    - few kit owners are contributing
+    - many outside people are cooperating
+* Considering asking for the kits back from no-cooperating people
 
 ### cyanoBlitz
-* 
+* Bryan sent out a listserve message
 
 ### Other Bidness
 * What do about "forms" on cyanos.org. (e.g.: MARIANNE DENTON from Nevada Division of Enivornmental Protection, Bureau of Water Quality Planning in NV, US submitted a form on the cyanos.org website about Cyanoscope...)
-    - Who gets these?
-    - Who answers them?
-*	Scheduling for fall/early winter CMC meeting? Ideas….
-*	Discussion on participation with BloomWatch & Cyanoscope…seems almost nonexistent…..
-*	Webpage improvements?
-*	CMC annual reporting ideas?
-
+    - Who gets these? Hilary, Shane, Jeff, or Betty
+    - Who answers them? Anyone can respond
+*	Scheduling for fall/early winter CMC meeting? Ideas….: let's do the Beaglethon in November then consider a late winter meeting.
+*	Discussion on participation with BloomWatch & Cyanoscope…seems almost nonexistent…..: cyanoscope discussed: Jasper not present for bloomwatch
+*	Webpage improvements: Shane is working on this.  Looking at recruiting a writer to help with content.  May add a blog for stories with a wordpress template.
+*	CMC annual reporting ideas?  We'll discuss this next time.
 
 ## Action Items 20180905
+* Shane will check with Jim about his work on calibrating the Beagle to cells / ml. 
+* Shane will see what needs to be done to make the kit links more visible on cyanos.org. 
+* Hilary will contact the kit owners to ask them what their iNat username is to ask if they need help getting going if they aren't current on their observations.
+* Hilary will set up an November date for the beaglethon.
+* Betty and Bryan will send out tweets and an announcement on iNat about the blitz.
+* Bryan will convert data entry spreadsheet to google sheet. Target date September 30.
+      - explore adding a form
+
 
 
 
