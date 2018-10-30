@@ -1,5 +1,5 @@
 ---
-title: "cmc_call_20181003"
+title: "cmc_call_20181107"
 author: "Bryan Milstead"
 date: "`r format(Sys.time(), '%d %B %Y')`"
 output: github_document
@@ -9,15 +9,17 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Call Notes for OCtober 3, 2018
-* call cancelled
+# Call Notes for November 7, 2018, 3-4pm (eastern)
+* call in info:
+    * Phone number: 202-991-0477
+    * ID: 5142339
 
 ### Participants:  
 
 ## Housekeeping
-* Next call is Wednesday November 7
+* Next call is Wednesday December 5
 * Call notes will be available on https://github.com/willbmisled/cmc_calls; look for the .md files by date
-    - This months notes: https://github.com/willbmisled/cmc_calls/blob/master/cmc_call_20181003.md
+    - This months notes: https://github.com/willbmisled/cmc_calls/blob/master/cmc_call_20181107.md
 
 ## Action Items 20180905
 * Shane will check with Jim about his work on calibrating the Beagle to cells / ml. 
@@ -39,9 +41,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ### cyanoScope
 * 
 
-### cyanoBlitz
-* Bryan sent out a listserve message
-
 ### other Bidness
 *	Discussion start on rethinking our approach to the CMC. 
     -	BloomWatch is fairly stagnant, despite the fact that we have about 28 states signed on to the APP. This means the states have signed on, but have not promoted the product. Needs a lot of work, probably from the marketing standpoint. It appears a lot of the NE states are still asking for call ins to report HABs, or their own version of a paper form. Needs exploring…
@@ -55,7 +54,7 @@ knitr::opts_chunk$set(echo = TRUE)
 *	We should have some blog posts from members of the collaborative, i.e. watershed/lake associations, AED/UNH research, etc. We definitely get many more webpage visits when a blog is posted.
 * discuss exploring ways for people visiting cyanos.org to connect with one another; maybe via a comment thread or something in order to begin conversations on cyano issues…just a thought!
 
-## Action Items 20181003
+## Action Items 20181107
 
 
 
