@@ -20,6 +20,7 @@ knitr::opts_chunk$set(echo = TRUE)
 * Next call is Wednesday December 5
 * Call notes will be available on https://github.com/willbmisled/cmc_calls; look for the .md files by date
     - This months notes: https://github.com/willbmisled/cmc_calls/blob/master/cmc_call_20181107.md
+* CMC meeting chelmsford Thurs. Nov. 29th
 
 ## Action Items 20180905
 * Shane will check with Jim about his work on calibrating the Beagle to cells / ml. 
@@ -36,10 +37,12 @@ knitr::opts_chunk$set(echo = TRUE)
 * 
 
 ### Bloomwatch
-* 
+* I’m going to be at a nutrients permitting workshop in Gulfport next week and won’t be able to make the call. On the bloomWatch front, Hilary and I have been in discussions with SciStarter about a potential partnership. Maybe Hilary can fill the group in on where we’re at. We don’t want to commit to anything yet, and I’m waiting to hear back from the developers and CitSci about how this could work. - Jasper
 
 ### cyanoScope
-* 
+* cyanoBlitz
+* David Lu
+* Twitter plans
 
 ### other Bidness
 *	Discussion start on rethinking our approach to the CMC. 
@@ -53,6 +56,8 @@ knitr::opts_chunk$set(echo = TRUE)
 *	Should we start thinking about a collaborative specific project for next year aside from the ongoing efforts? Would this foster more engagement? 
 *	We should have some blog posts from members of the collaborative, i.e. watershed/lake associations, AED/UNH research, etc. We definitely get many more webpage visits when a blog is posted.
 * discuss exploring ways for people visiting cyanos.org to connect with one another; maybe via a comment thread or something in order to begin conversations on cyano issues…just a thought!
+* solicit thoughts from folks on what they might like to see in a CMC report. 
+* Ping Tom Hollenhorst from Duluth to see if he is still engaged ( I did send him a fluorometer this fall…).
 
 ## Action Items 20181107
 
