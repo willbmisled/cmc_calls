@@ -28,9 +28,10 @@ knitr::opts_chunk$set(echo = TRUE)
 * Hilary will ping Tom Hollenhorst
 
 ## Program Updates
+* discussion on upshots of last chelmsford meeting
 
 ### Monitoring
-* 
+* discussion of the proposed CMC report outline (sent out by email)
 
 ### Bloomwatch
 * 
