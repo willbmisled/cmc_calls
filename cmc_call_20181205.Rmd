@@ -14,10 +14,11 @@ knitr::opts_chunk$set(echo = TRUE)
     * Phone number: 202-991-0477
     * ID: 5142339
 
-### Participants: Betty, Bryan, Stephen, Hilary, Jasper & Shane. 
+### Invited: Betty, Bryan, Stephen, Hilary, Jasper, Shane, Tom, & Jim. 
 
 ## Housekeeping
 * Next call is Wednesday January 2, 2018
+* Tom Hollenhorst will participate in these calls from now on.
 * Call notes will be available on https://github.com/willbmisled/cmc_calls; look for the .md files by date
     - This months notes: https://github.com/willbmisled/cmc_calls/blob/master/cmc_call_20181205.md
 
