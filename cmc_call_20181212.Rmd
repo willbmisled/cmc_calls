@@ -1,0 +1,69 @@
+---
+title: "cmc_call_20181212"
+author: "Bryan Milstead"
+date: "`r format(Sys.time(), '%d %B %Y')`"
+output: github_document
+---
+
+```{r setup, include=FALSE, echo = FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Call Notes for December 12, 2018, 3-4pm (eastern)
+* call in info:
+    * Phone number: 202-991-0477
+    * ID: 5142339
+
+### Invited: Betty, Bryan, Stephen, Hilary, Jasper, Shane, Tom, Jeff, Jim.
+### Attended: Betty, Bryan, Stephen, Hilary, Jasper, Shane, Tom, 
+
+## Housekeeping
+* Next call is Wednesday January 2, 2018: all agreed - Fat chance now with the gubment shutdown.
+* Tom Hollenhorst will participate in these calls from now on.
+* Call notes will be available on https://github.com/willbmisled/cmc_calls; look for the .md files by date
+    - This months notes: https://github.com/willbmisled/cmc_calls/blob/master/cmc_call_20181212.md
+ 
+## Action Items 20181107
+* Hilary will check with the cyanoscope kit owners to find out their cyanoscope username: in progress
+* Betty will tweet the website: in progress: done
+* Bryan: next agenda discuss cmc report needs-make next call about this; done
+* Hilary will ping Tom Hollenhorst; done
+
+## Program Updates
+* discussion on upshots of last chelmsford meeting
+    - good meeting well attended
+    - Angela had some excellent suggested priorities
+      - summary of bloom occurrence for New England states
+      - analysis of cyanoScope data
+      - collate Microcystin data from states
+      - interpretive tools for data
+      - regional analysis of landscape patterns and blooms
+
+### Monitoring
+* discussion of the proposed CMC report outline (sent out by email)
+    - Hilary to refine the CMC report outline
+
+### Bloomwatch
+* waiting to hear back from cystarter
+* CTDEEP wants Jasper to present at their annual citizen science mtg. 
+    
+### cyanoScope
+* David Lu visited and demonstrated his "foldscope"
+    - he may be interested in colaborating on image recognition for cyanoScope
+    - will wait to hear back from him
+* AED scope upgraded
+
+### other Bidness
+* Ann Rea requested a ppt slide on cyanoScope from Betty
+* Tom reports there will be a small rfp from NPS for cit sci projects
+* Tom will present on cyanos in the Apostle Islands to the NPS	
+
+
+## Action Items 20181212
+* Hilary will check with the cyanoscope kit owners to find out their cyanoscope username-
+
+
+
+
+
+
