@@ -1,0 +1,51 @@
+---
+title: "cmc_call_20190410"
+author: "Bryan Milstead"
+date: "`r format(Sys.time(), '%d %B %Y')`"
+output: github_document
+---
+
+```{r setup, include=FALSE, echo = FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Call Notes for April 10, 2019, 3-4pm (eastern)
+* call in info:
+    * Phone number: 202-991-0477
+    * ID: 5142339
+
+### Invited: Betty, Bryan, Stephen, Hilary, Jasper, Shane, Tom, Jeff, Jim.
+### Attended: 
+
+## Housekeeping
+* Next call is Wednesday June 5, 2018: 
+* First call since the shutdown
+* Call notes will be available on https://github.com/willbmisled/cmc_calls; look for the .md files by date
+    - This months notes: https://github.com/willbmisled/cmc_calls/blob/master/cmc_call_20190410.md
+ 
+## Action Items 20181212
+* Hilary will check with the cyanoscope kit owners to find out their cyanoscope username
+
+## Program Updates
+* May 23rd CMC meeting in Chelmsford
+
+### Monitoring
+* 
+
+### Bloomwatch
+* Hilary would like to discuss BloomWatch and an idea I have for data
+    
+### cyanoScope
+* 
+
+### other Bidness
+* 
+
+## Action Items 20190410
+* 
+
+
+
+
+
+
