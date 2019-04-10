@@ -15,34 +15,48 @@ knitr::opts_chunk$set(echo = TRUE)
     * ID: 5142339
 
 ### Invited: Betty, Bryan, Stephen, Hilary, Jasper, Shane, Tom, Jeff, Jim.
-### Attended: 
+### Attended: Bryan, Stephen, Hilary, Tom, Jasper, Shane
 
 ## Housekeeping
-* Next call is Wednesday June 5, 2018: 
+* Next call is Wednesday May 1, 2018: 
 * First call since the shutdown
 * Call notes will be available on https://github.com/willbmisled/cmc_calls; look for the .md files by date
     - This months notes: https://github.com/willbmisled/cmc_calls/blob/master/cmc_call_20190410.md
  
 ## Action Items 20181212
-* Hilary will check with the cyanoscope kit owners to find out their cyanoscope username
+* Hilary will check with the cyanoscope kit owners to find out their cyanoscope username:  got a couple of responses-will forward.
 
 ## Program Updates
-* May 23rd CMC meeting in Chelmsford
 
 ### Monitoring
-* 
+* Hilary went to CT cit sci monitoring conference-many are using the protocol but not letting us know
+* QAPP will be updated with a few tweaks to the monitoring protocol
+* Cit Sci lake superior asked for a webinar- Hilary will do it
+* Hilary has several trainings scheduled in the east
 
 ### Bloomwatch
-* Hilary would like to discuss BloomWatch and an idea I have for data
+* Hilary would like to discuss BloomWatch and an idea for the data
+    * Jasper: trouble with citsci.org make this no longer a viable option
+    * Hilary:  Tad and Marlis in WED can build a stand alone database and host it on our web server
+      * EPA has an access to an application called "qlik" that may be useful for this
+      * we might be able to host this on cyanos.org
+      * Hilary is checking on permissions
+      * Tom suggested looking into another data viewer called "tableau"
+      * Shane says ArcGIS click sense could also be use and UNH has a license
+      * Shane points out that we need to clarify our goals and understand what people want before we build a new tool
     
 ### cyanoScope
-* 
+* activity is picking up with new identifiers
 
 ### other Bidness
-* 
+* May 23rd CMC meeting in Chelmsford: 
+    * no beagle calibration this year
+    * agenda will be out next week 
+    * Shane will present on the concept map
+* Still need some video clips for training on cyanos.org
 
 ## Action Items 20190410
-* 
+* Hilary will look into converting bloomwatch to "qlik"
 
 
 
